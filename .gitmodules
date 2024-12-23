@@ -1,0 +1,3 @@
+[submodule "EcoRide-frontend"]
+	path = EcoRide-frontend
+	url = git@github.com:Fogulus/EcoRide-frontend.git
